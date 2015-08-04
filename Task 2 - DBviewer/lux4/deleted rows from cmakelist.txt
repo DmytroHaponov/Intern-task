@@ -1,2 +1,0 @@
-set (CMAKE_PREFIX_PATH "E:\\Qt\\5.5\\msvc2013_64\\lib\\cmake\\")
-include_directories(${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_BINARY_DIR})
