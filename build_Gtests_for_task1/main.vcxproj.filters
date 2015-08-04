@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\temp\Task 1 - Sort letters in file\LuxSortTest\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\temp\Task 1 - Sort letters in file\LuxSortTest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F4E2A153-75B1-4CAE-BF1C-C6FA2C402D0C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

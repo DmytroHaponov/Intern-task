@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\temp\build_task1 - sort letters in file\CMakeFiles\80d47322fddef2e9a49c14f779967814\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0C5CEC68-1491-452A-BE58-78EBA78EBA67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

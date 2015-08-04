@@ -1,0 +1,3 @@
+D:/temp/build_Gtests_for_task1/CMakeFiles/main.dir
+D:/temp/build_Gtests_for_task1/CMakeFiles/ALL_BUILD.dir
+D:/temp/build_Gtests_for_task1/CMakeFiles/ZERO_CHECK.dir
