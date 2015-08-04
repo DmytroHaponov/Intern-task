@@ -11,9 +11,6 @@ INCLUDE_DIRECTORIES(E:\\Qt\\5.5\\msvc2013_64\\lib\\cmake\\Qt5Widgets\\)
 
 INCLUDE(E:\\Qt\\5.5\\msvc2013_64\\lib\\cmake\\Qt5Widgets\\Qt5WidgetsConfig.cmake)
 
-#NCLUDE_DIRECTORIES(D:\\temp\\lux4\\QtSql\\)
-#INCLUDE(D:\\temp\\lux4\\Qt5Sql.lib)
-
 find_package(Qt5Widgets REQUIRED)
 
 add_executable (lux4 main.cpp opendialog.cpp createdialog.cpp showdbdialog.cpp widget.cpp)
